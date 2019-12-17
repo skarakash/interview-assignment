@@ -1,0 +1,13 @@
+img {
+    width: 500px;
+    margin-bottom: 150px;
+}
+
+.post_details {
+    text-align: center;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-evenly;
+}
